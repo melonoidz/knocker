@@ -1,4 +1,7 @@
 # knocker
 100knocker
-# これをdockerにのせて，これ上で色々なんとかしたい
-# docker上にlinuxを載せて，それ上でなんとかできる？？
+# 使い方
+$ docker-compose up -d --build
+$ docker-compose exec python3 bash
+- EXIT
+$ docker-compose down
