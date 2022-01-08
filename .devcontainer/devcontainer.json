@@ -14,7 +14,7 @@
 			"NODE_VERSION": "lts/*"
 		}
 	},
-
+	// https://qiita.com/Yuki_Oshima/items/d3b52c553387685460b0 
 	// Set *default* container specific settings.json values on container create.
 	"settings": { 
 		"python.defaultInterpreterPath": "/usr/local/bin/python",
